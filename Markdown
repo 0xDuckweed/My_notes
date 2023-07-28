@@ -1,5 +1,0 @@
-# Heading
-Heading by # and the quantity represents the number of levels of heading
-# Paragraph
-black line
-# 
