@@ -1,7 +1,7 @@
 # About me
-My name is **Duckweed**, the is me on the internet.At the time of the writing, i was **19**.
+My name is Duckweed.
 
-*I am a network security enthusiast.*
+*I am a web3 enthusiast.*
 # What is this
 I wrote this note for three purposes.
 + Record my learning journey
